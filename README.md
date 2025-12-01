@@ -1,8 +1,10 @@
 # 1INF62_GRUPO5_TA
-Presentación de los códigos correspondientes a dos modelos utilizados para el desarrollo del trabajo académico final del curso de Inteligencia Artificial Aplicada. El modelo seleccionado para la implementación final es EfficientNet-B0.
-Integrantes:
+Presentation of the code corresponding to two models developed for the final academic project in the Applied Artificial Intelligence course. The model selected for the final implementation is EfficientNet-B0.
+
+Team members: 
 Guillermo Romero, Franchesco Mackey 
 Cabrera Mays, Valerie Marcela 
 Huatuco Hidalgo, Hiram Daniel 
 Aliaga Sinche, Renzo Giancarlo
-Profesor del curso: Edwin Rafael Villanueva Talavera
+
+Course instructor: Edwin Rafael Villanueva Talavera
