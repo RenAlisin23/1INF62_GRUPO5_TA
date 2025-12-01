@@ -3,8 +3,11 @@ Presentation of the code corresponding to two models developed for the final aca
 
 Team members: 
 Guillermo Romero, Franchesco Mackey 
+
 Cabrera Mays, Valerie Marcela 
+
 Huatuco Hidalgo, Hiram Daniel 
+
 Aliaga Sinche, Renzo Giancarlo
 
 Course instructor: Edwin Rafael Villanueva Talavera
