@@ -5,3 +5,4 @@ Guillermo Romero, Franchesco Mackey
 Cabrera Mays, Valerie Marcela 
 Huatuco Hidalgo, Hiram Daniel 
 Aliaga Sinche, Renzo Giancarlo
+Profesor del curso: Edwin Rafael Villanueva Talavera
